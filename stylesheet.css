@@ -1,0 +1,16 @@
+header
+{background-color: skyblue;
+  font-family: "Georgia", fantasy;
+  font-size: 2.5em;
+}
+aside {
+  width: 20%;
+  padding-left: 0px;
+  margin-left: 0px;
+  padding-right: 20px;
+  margin-right: 20px;
+}
+footer
+{background-color: skyblue;
+  font-family: "georgia", fantasy;
+  font-size: 1em;}
